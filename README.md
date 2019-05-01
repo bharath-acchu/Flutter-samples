@@ -2,4 +2,4 @@
 
 
 
-A startup examples to develop flutter applications
+ The startup examples to develop flutter applications
